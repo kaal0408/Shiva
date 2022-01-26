@@ -1,4 +1,4 @@
-# Genisys V2.5
+# shiva V2.5
 <p align='center'>
   <img src="https://github.com/Cryptonian007/Genisys/blob/main/img/GENISYS.png" width="200" height="200"><br>
   Powerful Telegram Members Scraping and Adding Toolkit<br>
@@ -38,30 +38,19 @@
 
 * Scrape members
 
-`python scraper.py`
+`python scrap.py`
 
 * Add members
 
-`python tsadder.py`
+`python manjeet.py`
 
 # Note
 
 Sometimes users may not get added at all, this may be because the account is probably limited. Try with another account
 
-# Screenshot
-
-  <img src="https://github.com/Cryptonian007/Genisys/blob/main/img/Screenshot%202021-07-20%20094612.png">
-  </p>
 
 # Buy me a coffee
 
 LTC - MG35ToG6g9YxwQzKcQFismyX5iNxJJx2Bg<br>
 BTC - 35ZcHyk4JWGjbyn8FxHdUrRyAAg3bhJxME
 
-# Warning
-
-* This tool is official and completely free to use. Do not buy if anyone tries to sell by copying script
-
-# News
-
-* Tool [Astra](https://github.com/Cryptonian007/Astra.git) has been recently released. Check it out
